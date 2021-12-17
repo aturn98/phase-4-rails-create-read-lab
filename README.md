@@ -35,7 +35,7 @@ To see how the React application and Rails API are interacting, you can run the
 Rails application in one terminal by running:
 
 ```console
-$ rails s
+ $ rails s
 ```
 
 Then, [open another terminal][new terminal] and run React:
